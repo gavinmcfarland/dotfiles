@@ -1,0 +1,39 @@
+{
+    "terminal.integrated.shell.osx": "/usr/local/bin/fish",
+    "editor.formatOnType": true,
+    "files.associations": {
+        "*.json": "hjson"
+    },
+    "emmet.includeLanguages": {
+        "postcss": "css"
+    },
+    "editor.wordWrap": "on",
+    "editor.formatOnPaste": true,
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "workbench.colorTheme": "GitHub Dark Default",
+    "todo-tree.tree.showScanModeButton": false,
+    "workbench.editor.decorations.badges": true,
+    "workbench.editor.decorations.colors": true,
+    "workbench.editor.wrapTabs": true,
+    "[svelte]": {
+     "editor.defaultFormatter": "svelte.svelte-vscode"
+},
+"workbench.productIconTheme": "icons-carbon",
+"window.openFoldersInNewWindow": "on",
+"svelte.enable-ts-plugin": true,
+//    "workbench.colorCustomizations": {
+//     "foreground": "#0D1117",
+//     "editor.background": "#0D1117",
+//     "sideBar.background": "#0D1117",
+//     "editorGroupHeader.tabsBackground": "#0D1117",
+//     "tab.inactiveBackground": "#0D1117",
+//     "tab.activeBackground": "#0D1117",
+//     "titleBar.activeBackground": "#0D1117",
+//     "titleBar.inactiveBackground": "#0D1117",
+//     "titleBar.border": "#0D1117",
+//     "activityBar.background": "#0D1117",
+//     "terminal.background": "#0D1117",
+//     "window.activeBorder": "#0D1117",
+//     "window.inactiveBorder": "#0D1117"
+//    }
+}
